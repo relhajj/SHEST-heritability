@@ -1,5 +1,5 @@
 # Secular Heriability ESTimate (SHEST) Software
-This repository is an extension of a research manuscript completed under the name `A Novel Approach to Calculating Broad-Sense Heritability`. Here, you may find the associated code for the manuscript introducing the SHEST method for estimating secular heritability.
+This repository is an extension of a research manuscript completed titled `A Novel Approach to Estimating Broad-Sense Heritability`. Here, you may find the associated code for the manuscript introducing the SHEST method for estimating secular heritability.
 
 ## Formatting input data:
 * The expected file type format for SHEST_calculator.ipynb a comma-seperated-values file (extention: `.csv`)
