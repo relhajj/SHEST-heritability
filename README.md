@@ -1,4 +1,6 @@
-# Secular Heriability ESTimate (SHEST) Software
+# A Novel Approach to Estimating Broad-Sense Heriability 
+
+## Secular Heriability ESTimate (SHEST) Software
 This repository contains the associated code for the manuscript, `A Novel Approach to Estimating Broad-Sense Heritability`. Heritability is the standard measure used to quantify the relative genetic contributions to various phenotypes, diseases, and conditions. In our paper, we describe a novel approach to quantitatively estimate broad sense heritability by assessing the magnitude of the secular trend in the incidence or prevalence of a specific phenotype or disease for a given population. The method, which we call “SHEST” (Secular Heritability ESTimate), is based on the premise that large-scale secular trends over a short period of time (one to two generations) are indicative of a weakly heritable condition while long-term invariant incidence or prevalence is indicative of a strongly heritable condition.
 
 ## Formatting input data:
