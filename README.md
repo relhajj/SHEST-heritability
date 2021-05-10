@@ -10,7 +10,4 @@ This repository contains the associated code for the manuscript, `A Novel Approa
   * Rows 1 and 2 are used to store the data source(s)
 * **For an example of an acceptable .csv file, refer to cystic_fibrosis.csv found in [relhajj/SHEST-heritability/csvs](https://github.com/relhajj/SHEST-heritability/blob/92acb4219c7ee84a49af64f883985fce5f8dd3b3/csvs/cystic_fibrosis.csv).**
 
-## Contributors
-* Rehab El-Hajj (relhajj@ualberta.ca)
-* Sarah Davis (sdavis1@ualberta.ca)
-* David Wishart (dwishart@ualberta.ca)
+`Authors: Rehab El-Hajj (relhajj@ualberta.ca), Sarah Davis (sdavis1@ualberta.ca), David Wishart (dwishart@ualberta.ca)`
