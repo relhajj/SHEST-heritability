@@ -10,4 +10,8 @@ This repository contains the associated code for the manuscript, `A Novel Approa
   * Rows 1 and 2 are used to store the data source(s)
 * **For examples of acceptable .csv files, refer to [relhajj/SHEST-heritability/csvs](https://github.com/relhajj/SHEST-heritability/blob/92acb4219c7ee84a49af64f883985fce5f8dd3b3/csvs/cystic_fibrosis.csv) which contains the .csv files used to estimate heritability through the SHEST method introduced in our manuscript.**
 
+## Data sources 
+* For details of where we obtained the data contained in each individual .csv file, please refer to either our manuscript, or our supporting information (which explains the rationale behind our data choices).
+* The data used to estimate the heritability for eye color and hair color through our SHEST method was collected by our team and is publically available (found at [relhajj/SHEST_data](https://github.com/relhajj/SHEST_data)).
+
 `Authors: Rehab El-Hajj (rehab.elhajj@ucalgary.ca), Sarah Davis (sdavis1@ualberta.ca), David Wishart (dwishart@ualberta.ca)`
